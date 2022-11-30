@@ -1,5 +1,5 @@
-import requests, os, sys
 import random, time, re
+import requests, os, sys
 from colorama import Fore, init
 from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup as sop
